@@ -1,2 +1,2 @@
 Example workflow for Github Actions
-test
+test2
